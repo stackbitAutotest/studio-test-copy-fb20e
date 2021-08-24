@@ -1692,3 +1692,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  datamodelstest:
+    type: data
+    label: datamodelstest

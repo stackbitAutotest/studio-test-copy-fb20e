@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Is A Big Hero Headline
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      testsus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing

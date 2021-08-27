@@ -5,7 +5,7 @@ sections:
     title: Is A Big Hero Headline
     subtitle: Optional hero section subtitle
     content: |
-      testsus id molestie vel.
+      test
     actions:
       - label: Try Free
         url: /pricing

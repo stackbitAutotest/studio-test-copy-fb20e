@@ -1739,3 +1739,7 @@ models:
   objectmodelstest:
     type: object
     label: objectmodelstest
+  pagemodelstest:
+    type: page
+    label: pagemodelstest
+    layout: pagemodelstest

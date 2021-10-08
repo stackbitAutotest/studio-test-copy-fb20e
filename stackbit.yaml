@@ -1739,6 +1739,3 @@ models:
   objectmodelstest:
     type: object
     label: objectmodelstest
-  datamodelstest:
-    type: data
-    label: datamodelstest

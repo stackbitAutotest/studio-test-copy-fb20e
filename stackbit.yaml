@@ -1736,7 +1736,3 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  pagemodelstest:
-    type: page
-    label: pagemodelstest
-    layout: pagemodelstest
